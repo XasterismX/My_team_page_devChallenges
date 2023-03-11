@@ -1,0 +1,46 @@
+body {
+  hyphens: auto;
+}
+.head-header {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+.h2-who{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-transform: uppercase;
+color: #000000;
+}
+.text-who{
+
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+}
+.person-name{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+text-align: start;
+}
+.person-prof{
+    font-family: 'PT Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+text-transform: uppercase;
+}

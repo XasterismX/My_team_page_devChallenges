@@ -1,0 +1,44 @@
+.wrapper{
+
+    margin: 0 auto;
+    margin-top: 110px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.header-who-we{
+    width: 30%;
+}
+.team{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    flex-basis: 33.333333%
+
+}
+.down{
+    margin-top: 50px;
+
+}
+.person{
+   text-align: center;
+}
+.person-foto{
+    width: 60%;
+
+}
+.person-name{
+    width: 60%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.person-prof{
+   transform: rotate(90deg);
+
+}
